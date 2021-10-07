@@ -126,4 +126,11 @@ address li {
   address ul {
     align-items: flex-start;
   }
+  .container-blog figure {
+    margin: 0 1.5rem;
+  }
+  .container-logo-nav {
+    margin-left: 5rem;
+    margin-right: -5rem;
+  }
 }
