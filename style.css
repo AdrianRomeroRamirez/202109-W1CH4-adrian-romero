@@ -134,3 +134,7 @@ address li {
     margin-right: -5rem;
   }
 }
+
+.hidden {
+  display: none;
+}
